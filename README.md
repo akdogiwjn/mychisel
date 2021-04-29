@@ -9,6 +9,7 @@ cd mychisel
 
 #### Commit your changes
 ```sh
+git add .
 git commit -m 'Starting mychisel'
 git push origin main
 ```
